@@ -29,6 +29,7 @@ function greetWithDefault(name = "programmer") {
   console.log(`Hello, ${name}!`);
 }
 
+
 /*
   You should be able to call this function with two arguments and get back its return value:
   const sum = add(1, 2);
